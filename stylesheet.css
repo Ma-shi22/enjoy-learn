@@ -1,3 +1,19 @@
+body {
+  height: 64rem;
+  width: 48rem;
+  background-image: url(Archivos//Fondo\ de\ ruleta.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  color: #fff;
+
+  
+    
+}
 /* HEADER */
 
   .header {
