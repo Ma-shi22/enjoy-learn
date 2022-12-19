@@ -1,0 +1,35 @@
+/* HEADER */
+
+  .header {
+    padding: 1rem;
+    position: relative;
+    background-color: plum;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 3px solid black;
+  }
+
+  /* BOTON TRASH */
+
+  .buttons {
+    display: flex;
+  }
+  .buttons img {
+    height: 2.5vh;
+    margin: 10px;
+  }
+
+  /* AÑADIR PARTICIPANTE */
+  .redSquare {
+    margin: 10px;
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
+
+article {
+    display: flex;
+    flex-wrap: wrap;
+}
+  
